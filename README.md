@@ -32,3 +32,6 @@ Additionally, flags can be combined and directories can (although not necessary)
 ## Created by:
 - Kathy Tran
 - Anthony Makaj
+
+## Disclaimer:
+We (Kathy and Anthony) take <strong>NO responsibility and/or liability</strong> for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are <strong>AGREEING TO USE AT YOUR OWN RISK</strong>.
